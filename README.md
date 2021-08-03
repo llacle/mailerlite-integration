@@ -14,7 +14,7 @@ A small web application to manage MailerLite subscribers.
 ```sh
 git clone https://github.com/llacle/mailerlite-integration.git mailerlite_app
 ```
-or download and extract: https://github.com/llacle/mailerlite-integration/archive/master.zip
+or download and extract: https://github.com/llacle/mailerlite-integration/archive/refs/heads/main.zip
 
 **2**: Use Composer to install dependencies
 ```sh
